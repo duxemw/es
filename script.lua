@@ -85,8 +85,8 @@ local function esp(p,cr)
             text.Position = Vector2.new(hrp_pos.X, hrp_pos.Y)
             text.Text = '[ '..tostring(ftool(cr))..' ]'
             text.Visible = true
-        else
 	    print("the good this cooming time")
+        else
             text.Visible = false
         end
     end)
