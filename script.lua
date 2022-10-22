@@ -1,5 +1,5 @@
 local Config = {
-    WindowName = "Example Library",
+    WindowName = "idiotsense",
 	Color = Color3.fromRGB(255,128,64),
 	Keybind = Enum.KeyCode.RightBracket
 }
